@@ -33,7 +33,7 @@ A secure and modern PHP-based authentication system that enables users to log in
 
 ---
 
-## 📌 Overview
+## 📌Overview
 
 This project is a **login authentication system** that offers:
 
@@ -44,7 +44,7 @@ Users can choose to log in with a username-password combination or simply by sca
 
 ---
 
-## ✨ Features
+## ✨Features
 
 - Dual login options: **Password** or **QR Code**
 - Secure QR generation using:
@@ -60,7 +60,7 @@ Users can choose to log in with a username-password combination or simply by sca
 
 ---
 
-## 🔧 How It Works
+## 🔧How It Works
 
 ### 🔑 Password Login
 - User logs in using username and password
@@ -75,7 +75,7 @@ Users can choose to log in with a username-password combination or simply by sca
 
 ---
 
-## 🛠 Technology Stack
+## 🛠Technology Stack
 
 - **Backend:** PHP (Pure PHP, no framework)
 - **Frontend:** HTML5, CSS3, Bootstrap 5
@@ -85,7 +85,7 @@ Users can choose to log in with a username-password combination or simply by sca
 
 ---
 
-## ⚙️ Installation
+## ⚙️Installation
 
 ### Prerequisites
 - PHP >= 7.4
@@ -106,7 +106,7 @@ Users can choose to log in with a username-password combination or simply by sca
   - Import the `qr-authentication.sql` file
   - Update Database credentials in `index.php` and `signup.php`
 
-## 🧭 Usage Guide
+## 🧭Usage Guide
 
 ### 👤 Login via Password
   - Visit the login page
@@ -122,7 +122,7 @@ Users can choose to log in with a username-password combination or simply by sca
   - Scan the previously downloaded QR
   - System validates it and logs you in if valid
 
-## 🙌 Credits
+## 🙌Credits
 QR code generation powered by:
 https://api.qrserver.com
 
