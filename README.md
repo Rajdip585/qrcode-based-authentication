@@ -27,7 +27,7 @@ A secure and modern PHP-based authentication system that enables users to log in
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Technology Stack](#technology-stack)
-- [Installation](#installation)
+- [Installation](#%EF%B8%8Finstallation)
 - [Usage Guide](#usage-guide)
 - [Credits](#credits)
 
